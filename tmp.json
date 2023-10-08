@@ -43,10 +43,20 @@
         "date_and_time": "2023-10-08 07:35:31",
         "book_id": "စမ်း",
         "title": "စမ်း",
-        "cover": "Screenshot (1).png",
+        "cover": "Screenshot (1).webp",
         "author": "စမ်း",
         "category": "စမ်း",
         "about": "စမ်း\n",
+        "link": "ss.pdf"
+    },
+    {
+        "date_and_time": "2023-10-08 07:45:54",
+        "book_id": "စမ်း၂\n",
+        "title": "စမ်း၂\n",
+        "cover": "Screenshot (1).png",
+        "author": "စမ်း၂\n",
+        "category": "စမ်း၂\n",
+        "about": "စမ်း၂\n",
         "link": "ss.pdf"
     }
 ]
