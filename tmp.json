@@ -123,10 +123,20 @@
         "date_and_time": "2023-10-10 22:36:13",
         "book_id": "dfdsf",
         "title": "dsfdsf",
-        "cover": "Screenshot (1).png",
+        "cover": "Screenshot (1).webp",
         "author": "dfdsf",
         "category": "dfdsf",
         "about": "dsfdsfds\n",
+        "link": "ss.pdf"
+    },
+    {
+        "date_and_time": "2023-10-10 22:49:18",
+        "book_id": "dfdsfsa",
+        "title": "adsfsd",
+        "cover": "Screenshot (1).png",
+        "author": "dfsdfsd",
+        "category": "fdssdfsd",
+        "about": "\tadsfsfsdf\t\t\n",
         "link": "ss.pdf"
     }
 ]
