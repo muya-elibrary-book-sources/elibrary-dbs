@@ -168,5 +168,15 @@
         "category": "dfdsfdsfsd",
         "about": "fdsfd\n",
         "link": "ss.pdf"
+    },
+    {
+        "date_and_time": "2023-10-19 14:50:39",
+        "book_id": "ffdsfds",
+        "title": "dsfdsfdsfds",
+        "cover": "Screenshot (1).webp",
+        "author": "dsfdsfdsf",
+        "category": "dfdsfdsf",
+        "about": "To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:\n",
+        "link": "ss.pdf"
     }
 ]
