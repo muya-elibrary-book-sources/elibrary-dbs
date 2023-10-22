@@ -1,8 +1,8 @@
 [
     {
         "date_and_time": "2023-10-06 04:33:19",
-        "book_id": "fdsf",
-        "title": "fsfsd",
+        "book_id": "သ-၃၄၅",
+        "title": "ချစ်ခြင်းများ",
         "cover": "Screenshot (1).webp",
         "author": "dff",
         "category": "dsfdsfdf",
@@ -11,8 +11,8 @@
     },
     {
         "date_and_time": "2023-10-06 11:09:19",
-        "book_id": "ewrwr",
-        "title": "fdfdsf",
+        "book_id": "မ-၄၅၆",
+        "title": "မင်းအတွက်ငါ",
         "cover": "Screenshot (1).webp",
         "author": "dfdsfs",
         "category": "dfdf",
@@ -21,162 +21,12 @@
     },
     {
         "date_and_time": "2023-10-07 09:28:31",
-        "book_id": ",style='TEntry'",
-        "title": "fdfdsf",
+        "book_id": "န-၇၈၉",
+        "title": "ကုသ",
         "cover": "Screenshot (1).webp",
         "author": "dfdsf",
         "category": "fdfdsfds",
         "about": "dsfdsfdsf\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-08 07:24:27",
-        "book_id": "စမ်းသပ်",
-        "title": "စမ်းသပ်",
-        "cover": "Screenshot (1).webp",
-        "author": "စမ်းသပ်",
-        "category": "စမ်းသပ်",
-        "about": "စမ်းသပ်\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-08 07:35:31",
-        "book_id": "စမ်း",
-        "title": "စမ်း",
-        "cover": "Screenshot (1).webp",
-        "author": "စမ်း",
-        "category": "စမ်း",
-        "about": "စမ်း\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-08 07:45:54",
-        "book_id": "စမ်း၂\n",
-        "title": "စမ်း၂\n",
-        "cover": "Screenshot (1).webp",
-        "author": "စမ်း၂\n",
-        "category": "စမ်း၂\n",
-        "about": "စမ်း၂\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-08 07:49:17",
-        "book_id": "စမ်း၂",
-        "title": "စမ်း၂",
-        "cover": "Screenshot (1).webp",
-        "author": "စမ်း၂",
-        "category": "စမ်း၂",
-        "about": "စမ်း၂\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-08 07:53:10",
-        "book_id": "test4",
-        "title": "test4",
-        "cover": "Screenshot (1).webp",
-        "author": "test4",
-        "category": "test4",
-        "about": "test4\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-10 21:18:34",
-        "book_id": "ttl",
-        "title": "ttl",
-        "cover": "Screenshot (1).webp",
-        "author": "ttl",
-        "category": "ttl",
-        "about": "ttl\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-10 22:18:24",
-        "book_id": "klkkk",
-        "title": "ll;l;",
-        "cover": "Screenshot (1).webp",
-        "author": "dfsdfdsfsd",
-        "category": "fddss",
-        "about": "\tdfdsfdsfdsf\t\t\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-10 22:23:27",
-        "book_id": "dfdfs",
-        "title": "dfdfssfsds",
-        "cover": "Screenshot (1).webp",
-        "author": "dfsdfds",
-        "category": "dfdsfsd",
-        "about": "dfdsfsd\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-10 22:32:00",
-        "book_id": "ddsfds",
-        "title": "dfdsfsdfdsf",
-        "cover": "Screenshot (1).webp",
-        "author": "dfdsfdsf",
-        "category": "dfdsfdsf",
-        "about": "dfdsfsd\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-10 22:36:13",
-        "book_id": "dfdsf",
-        "title": "dsfdsf",
-        "cover": "Screenshot (1).webp",
-        "author": "dfdsf",
-        "category": "dfdsf",
-        "about": "dsfdsfds\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-10 22:49:18",
-        "book_id": "dfdsfsa",
-        "title": "adsfsd",
-        "cover": "Screenshot (1).webp",
-        "author": "dfsdfsd",
-        "category": "fdssdfsd",
-        "about": "\tadsfsfsdf\t\t\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-13 21:23:24",
-        "book_id": "dd",
-        "title": "dfdsfs",
-        "cover": "Screenshot (1).webp",
-        "author": "fdsfds",
-        "category": "fdsfds",
-        "about": "dfdsfs\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-19 14:39:32",
-        "book_id": "ခြင်ထောင်ထဲက လီငင်သံ",
-        "title": "ကောင်းသလားမမေးနဲ့",
-        "cover": "Screenshot (1).webp",
-        "author": "ကောင်းသလားမမေးနဲ့",
-        "category": "ကောင်းသလားမမေးနဲ့",
-        "about": "ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့ကောင်းသလားမမေးနဲ့\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-19 14:46:43",
-        "book_id": "678",
-        "title": "dfsdss",
-        "cover": "Screenshot (1).webp",
-        "author": "dfdsfds",
-        "category": "dfdsfdsfsd",
-        "about": "fdsfd\n",
-        "link": "ss.pdf"
-    },
-    {
-        "date_and_time": "2023-10-19 14:50:39",
-        "book_id": "ffdsfds",
-        "title": "dsfdsfdsfds",
-        "cover": "Screenshot (1).webp",
-        "author": "dsfdsfdsf",
-        "category": "dfdsfdsf",
-        "about": "To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:To display only the first 20 characters of the text in your Label, you can modify the text property of the Label widget to include a string slice that limits the displayed text to the first 20 characters. Here's how you can do it:\n",
         "link": "ss.pdf"
     }
 ]
