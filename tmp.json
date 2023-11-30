@@ -4,9 +4,9 @@
         "book_id": "hello",
         "title": "hello",
         "cover": "Screenshot (1).webp",
-        "author": "hello",
+        "author": "hullo",
         "category": "hello",
-        "about": "\n",
+        "about": "\n\n",
         "link": "ss.pdf"
     }
 ]
