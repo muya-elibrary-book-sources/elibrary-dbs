@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "date_and_time": "2023-12-01 12:15:00",
+        "book_id": "မမ",
+        "title": "မမ",
+        "cover": "မမ.webp",
+        "author": "မမ",
+        "category": "မမ",
+        "about": "မမ\n",
+        "link": "မမ.pdf"
+    }
+]
