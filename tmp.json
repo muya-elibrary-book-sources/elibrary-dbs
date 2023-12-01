@@ -1,12 +1,1 @@
-[
-    {
-        "date_and_time": "2023-12-01 12:05:17",
-        "book_id": "test",
-        "title": "test",
-        "cover": "test.webp",
-        "author": "test",
-        "category": "test",
-        "about": "test\n",
-        "link": "test.pdf"
-    }
-]
+[]
