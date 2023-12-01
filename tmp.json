@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "date_and_time": "2023-11-30 16:54:10",
+        "book_id": "h-0001",
+        "title": "Egyptions",
+        "cover": "Screenshot (1).png",
+        "author": "Neo",
+        "category": "History",
+        "about": "Bla bla...\n",
+        "link": "ss.pdf"
+    }
+]
