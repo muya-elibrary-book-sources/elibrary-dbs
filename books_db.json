@@ -1,15 +1,5 @@
 [
     {
-        "date_and_time": "2023-12-01 15:26:41",
-        "book_id": "uu",
-        "title": "uu",
-        "cover": "uu.webp",
-        "author": "uuyyy",
-        "category": "uu",
-        "about": "uu\n\n",
-        "link": "uu.pdf"
-    },
-    {
         "date_and_time": "2023-12-02 14:26:37",
         "book_id": "hello",
         "title": "hello",
