@@ -1,15 +1,5 @@
 [
     {
-        "date_and_time": "2023-12-02 16:12:31",
-        "book_id": "hi",
-        "title": "hi",
-        "cover": "hi.webp",
-        "author": "hi",
-        "category": "hi",
-        "about": "\n",
-        "link": "hi.pdf"
-    },
-    {
         "date_and_time": "2023-12-02 16:18:00",
         "book_id": "akak",
         "title": "akak",
