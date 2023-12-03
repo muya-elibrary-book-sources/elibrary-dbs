@@ -8,5 +8,15 @@
         "category": "ကွန်ပျူတာ",
         "about": "Bitcoin အကြောင်း လိုရင်းတိုရှင်း\nဖော်ပြထားသည့်စာအုပ်။ Bitcoin အပါအဝင်\nCryptocurrency များ၏ အခြေခံဖြစ်သော\nBlockchain နည်းပညာနှင့် သိသင့်သည့်\nအထွေထွေဗဟုသုတများ စုံလင်စွာပါဝင်သည်။\nCryptocurrency များ အရောင်းအဝယ်\nပြုလုပ်နည်းကို ဖော်ပြသည့်စာအုပ်မဟုတ်ပါ။\n\n\n",
         "link": "က-၁.pdf"
+    },
+    {
+        "date_and_time": "2023-12-02 23:25:54",
+        "book_id": "က-၂",
+        "title": "\nProfessional Web Developer 2023",
+        "cover": "က-၂.webp",
+        "author": "အိမောင်",
+        "category": "ကွန်ပျူတာ",
+        "about": "A comprehensive guide that takes you from the fundamentals to intermediate and advanced levels, encompassing all aspects of web development in a single volume. It covers a wide range of topics essential for professional web developers, such as HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, React, Node, Mongo, Express, API design, and more. \n",
+        "link": "က-၂.pdf"
     }
 ]
