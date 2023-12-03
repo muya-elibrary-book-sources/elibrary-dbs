@@ -18,5 +18,15 @@
         "category": "test2",
         "about": "vvvvkk\n\n",
         "link": "test2.pdf"
+    },
+    {
+        "date_and_time": "2023-12-02 17:09:53",
+        "book_id": "bear",
+        "title": "bear",
+        "cover": "bear.webp",
+        "author": "bear",
+        "category": "bear",
+        "about": "bearbearbear\n",
+        "link": "bear.pdf"
     }
 ]
