@@ -78,5 +78,15 @@
         "category": "ကွန်ပျူတာ",
         "about": "ဆရာအိမောင်ရေးသားသော\nAPI အကြောင်း လိုရင်းတိုရှင်း\nဖော်ပြထားသည့် စာအုပ်ဖြစ်ပါသည်။\nREST API ဒီဇိုင်းပိုင်းဆိုင်ရာ\nအကြောင်းအရာများကို NodeJS,\nMongoDB နှင့် Express Framework\nတို့ အသုံးပြုဖော်ပြထားပါသည်။\n\n\nပါဝင်သည့်အကြောင်းအရာများ\nအခန်း (၁) – API ဆိုသည်မှာ\nအခန်း (၂) – HTTP Requests\nအခန်း (၃) – HTTP Responses\nအခန်း (၄) – RESTful API\nအခန်း (၅) – Response Structure\nအခန်း (၆) – MongoDB\nအခန်း (၇) – NodeJS\nအခန်း (၈) – Express\nအခန်း (၉) – CORS\nအခန်း (၁၀) - Auth\n\n\nအိမောင် (Fairway)\neimg@fairwayweb.com\n(09) 252 426 388\n",
         "link": "က-၈.pdf"
+    },
+    {
+        "date_and_time": "2023-12-04 06:51:59",
+        "book_id": "က-၉",
+        "title": "\nRockstar Developer",
+        "cover": "က-၉.webp",
+        "author": "အိမောင်",
+        "category": "ကွန်ပျူတာ",
+        "about": "An advanced-level book, written in Burmese, focusing on agile project management, development process management (including Git SCM, bug tracking, package management, and build automation), and back-end architecture (utilizing technologies such as Nginx, Docker, and more). This book also guides you through an advanced development stack that includes BackboneJS, NodeJS, MongoDB, and ExpressJS. It provides a comprehensive understanding of the tools and techniques needed to excel in advanced web development\n\n\nအပိုင်း (၁) – KEY CONCEPTS\nအခန်း (၁) – DEVELOPMENT PROCESSES MANAGEMENT\nအခန်း (၂) – TEST DRIVEN DEVELOPMENT – TDD\nအခန်း (၃) – SOLID DESIGN PRINCIPLES\nအခန်း (၄) – SERVICE ORIENTED ARCHITECTURE\nအပိုင်း (၂) – PROJECT MANAGEMENT\nအခန်း (၅) – VERSION CONTROL SYSTEM\nအခန်း (၆) – ISSUE TRACKING SYSTEM\nအခန်း (၇) – TEAM COLLABORATION\nအခန်း (၈) – DEVELOPMENT WROKFLOW AUTOMATION\nအပိုင်း(၃) – MODERN DEVELOPMENT STACK\nအခန်း (၉) – BACKBONEJS (CLIENT-SIDE MVC)\nအခန်း (၁၀) – NODEJS (SERVER-SIDE JAVASCRIPT)\nအခန်း (၁၁) – MONGODB (NOSQL DATABASE)\nအခန်း (၁၂) – EXPRESSJS (REST FRAMEWORK)\nအပိုင်း (၄) – BUILDING AN ISSUE TRACKING SYSTEM\nအခန်း (၁၃) – BUILDING BACK-END SERVICE\nအခန်း (၁၄) – BUILDING CLIENT (HTML TEMPLATES)\nအခန်း (၁၅) – BUILDING CLIENT (WEB APP)\nအခန်း (၁၆) – BUILDING CLIENT (HYBRID MOBILE APP)\nအပိုင်း (၅) – DEPLOYMENT AND SCALING\nအခန်း (၁၇) – DEPLOYMENT WITH DOCKER\nအခန်း (၁၈) – LOAD BALANCING WITH NGINX\nအခန်း (၁၉) – MONGODB REPLICATION AND SHARDED CLUSTER\nအခန်း (၂၀) – COMMON SERVER ARCHITECTURES\n",
+        "link": "က-၉.pdf"
     }
 ]
