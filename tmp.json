@@ -68,5 +68,15 @@
         "category": "ကွန်ပျူတာ",
         "about": "ဆရာအိမောင်ရေးသားသော\nReact JavaScript Framework အကြောင်း\nလိုရင်းတိုရှင်း ဖော်ပြထားသည့် စာအုပ်\nES6, Redux, React Native နှင့်\nNext.js တို့ ပါဝင်သည်။\n\nပါဝင်သည့်အကြောင်းအရာများ\nအခန်း (၁) – ES6\nအခန်း (၂) – React Basic\nအခန်း (၃) – React Data Flow\nအခန်း (၄) – Composition and Code Splitting\nအခန်း (၅) – Component Style\nအခန်း (၆) – Functional Component\nအခန်း (၇) - Context\nအခန်း (၈) - Redux\nအခန်း (၉) – React Router\nအခန်း (၁၀) – React Native\nအခန်း (၁၁) - Promises\nအခန်း (၁၂) – Working with API\nအခန်း (၁၃) – Next.js\n\n\nအိမောင် (Fairway)\neimg@fairwayweb.com\n(09) 252 426 388\n",
         "link": "က-၇.pdf"
+    },
+    {
+        "date_and_time": "2023-12-04 06:41:13",
+        "book_id": "က-၈",
+        "title": "API - လို - တို - ရှင်း",
+        "cover": "က-၈.webp",
+        "author": "အိမောင်",
+        "category": "ကွန်ပျူတာ",
+        "about": "ဆရာအိမောင်ရေးသားသော\nAPI အကြောင်း လိုရင်းတိုရှင်း\nဖော်ပြထားသည့် စာအုပ်ဖြစ်ပါသည်။\nREST API ဒီဇိုင်းပိုင်းဆိုင်ရာ\nအကြောင်းအရာများကို NodeJS,\nMongoDB နှင့် Express Framework\nတို့ အသုံးပြုဖော်ပြထားပါသည်။\n\n\nပါဝင်သည့်အကြောင်းအရာများ\nအခန်း (၁) – API ဆိုသည်မှာ\nအခန်း (၂) – HTTP Requests\nအခန်း (၃) – HTTP Responses\nအခန်း (၄) – RESTful API\nအခန်း (၅) – Response Structure\nအခန်း (၆) – MongoDB\nအခန်း (၇) – NodeJS\nအခန်း (၈) – Express\nအခန်း (၉) – CORS\nအခန်း (၁၀) - Auth\n\n\nအိမောင် (Fairway)\neimg@fairwayweb.com\n(09) 252 426 388\n",
+        "link": "က-၈.pdf"
     }
 ]
