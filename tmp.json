@@ -58,5 +58,15 @@
         "category": "ကွန်ပျူတာ",
         "about": "ဆရာအိမောင်ရေးသားသော\nLaravel Framework အကြောင်း\nလိုရင်းတိုရှင်း ဖော်ပြထားသည့် စာအုပ်။\nMVC, Database, Auth, အခြေခံ API နှင့်\nနမူနာ Project ငယ်တစ်ခု ပါဝင်သည်။\n\nပါဝင်သည့်အကြောင်းအရာများ\nအခန်း (၁) – PHP OOP\nအခန်း (၂) – Namespaces\nအခန်း (၃) – Laravel Project\nအခန်း (၄) – Routing\nအခန်း (၅) – Model – View - Controller\nအခန်း (၆) – Controller\nအခန်း (၇) – View\nအခန်း (၈) – Migration and Model\nအခန်း (၉) - Authentication\nအခန်း (၁၀) – Master Template\nအခန်း (၁၁) – Form\nအခန်း (၁၂) - Relationship\nအခန်း (၁၃) – Authorization\nအခန်း (၁၄) – Basic API\nအခန်း (၁၅) – Deployment\n\n\nအိမောင် (Fairway)\neimg@fairwayweb.com\n(09) 252 426 388\n",
         "link": "က-၆.pdf"
+    },
+    {
+        "date_and_time": "2023-12-04 06:36:18",
+        "book_id": "က-၇",
+        "title": "React - လို - တို - ရှင်း",
+        "cover": "က-၇.webp",
+        "author": "အိမောင်",
+        "category": "ကွန်ပျူတာ",
+        "about": "ဆရာအိမောင်ရေးသားသော\nReact JavaScript Framework အကြောင်း\nလိုရင်းတိုရှင်း ဖော်ပြထားသည့် စာအုပ်\nES6, Redux, React Native နှင့်\nNext.js တို့ ပါဝင်သည်။\n\nပါဝင်သည့်အကြောင်းအရာများ\nအခန်း (၁) – ES6\nအခန်း (၂) – React Basic\nအခန်း (၃) – React Data Flow\nအခန်း (၄) – Composition and Code Splitting\nအခန်း (၅) – Component Style\nအခန်း (၆) – Functional Component\nအခန်း (၇) - Context\nအခန်း (၈) - Redux\nအခန်း (၉) – React Router\nအခန်း (၁၀) – React Native\nအခန်း (၁၁) - Promises\nအခန်း (၁၂) – Working with API\nအခန်း (၁၃) – Next.js\n\n\nအိမောင် (Fairway)\neimg@fairwayweb.com\n(09) 252 426 388\n",
+        "link": "က-၇.pdf"
     }
 ]
