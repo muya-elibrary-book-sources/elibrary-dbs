@@ -38,5 +38,15 @@
         "category": "ကွန်ပျူတာ",
         "about": "JavaSript အကြောင်း လိုရင်းတိုရှင်း\nဖော်ပြထားသည့်စာအုပ် ဖြစ်ပါသည်။\nပရိုဂရမ်းမင်းကို ယခုမှ စတင်လေ့လာမည့်သူများ\nဖတ်ရှုသင့်သကဲ့သို့ JavaScript အကြောင်းကို\nအခြေခံကျကျ ပိုမိုသိရှိ နားလည်လိုသူများ\nဖတ်ရှုသင့်ပါသည်။\nပါဝင်သည့်အကြောင်းအရာများ\nအခန်း (၁) – Variables\nအခန်း (၂) – Data Types\nအခန်း (၃) – Expressions, Statements & Operators\nအခန်း (၄) – Procedures & Functions\nအခန်း (၅) – Arrays & Objects\nအခန်း (၆) – Control Flows & Loops\nအခန်း (၇) – Object-Oriented Programming – OOP\nအခန်း (၈) – Promises & async, await\nအခန်း (၉) – Code Style Guide\nအခန်း (၁၀) – Modules\nအခန်း (၁၁) – Document Object Model – DOM\nအခန်း (၁၂) – Debugging\n\nအိမောင် (Fairway)\neimg@fairwayweb.com\n(09) 252 426 388\n",
         "link": "က-၄.pdf"
+    },
+    {
+        "date_and_time": "2023-12-04 20:44:59",
+        "book_id": "က-၅",
+        "title": "PHP လို - တို - ရှင်း",
+        "cover": "က-၅.webp",
+        "author": "အိမောင်",
+        "category": "ကွန်ပျူတာ",
+        "about": "PHP အကြောင်း လိုရင်းတိုရှင်း\nဖော်ပြထားသည့်စာအုပ် ဖြစ်ပါသည်။\nWeb နည်းပညာအခြေခံများမှ စတင်၍\nအဆင့်မြင့် PHP ရေးထုံးများအထိ\nပါဝင်သည်။ MySQL Database အကြောင်း\nပူးတွဲပါဝင်ပြီး ပရိုဂရမ်းမင်းအခြေခံ\nလေ့လာဖူးသူများ ဖတ်ရှုနိုင်သည်။\n\nပါဝင်သည့်အကြောင်းအရာများ\nအခန်း (၁) – World Wide Web\nအခန်း (၂) – PHP Development Environment\nအခန်း (၃) – Syntax, Variables & Data Types\nအခန်း (၄) – Strings & Arrays\nအခန်း (၅) – Operators & Control Structures\nအခန်း (၆) – Functions\nအခန်း (၇) – Object-Oriented Programming\nအခန်း (၈) – Essential Design Patterns\nအခန်း (၉) – Error Handling\nအခန်း (၁၀) – Modules & Namespaces\nအခန်း (၁၁) – Composer\nအခန်း (၁၂) – Requests, Cookies & Sessions\nအခန်း (၁၃) – File Upload\nအခန်း (၁၄) – MySQL Database\nအခန်း (၁၅) – Project\nအခန်း (၁၆) – Security\n\nအိမောင် (Fairway)\neimg@fairwayweb.com\n(09) 252 426 388\n",
+        "link": "က-၅.pdf"
     }
 ]
