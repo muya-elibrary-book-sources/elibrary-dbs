@@ -18,5 +18,15 @@
         "category": "ကွန်ပျူတာ",
         "about": "A comprehensive guide that takes you from the fundamentals to intermediate and advanced levels, encompassing all aspects of web development in a single volume. It covers a wide range of topics essential for professional web developers, such as HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, React, Node, Mongo, Express, API design, and more.\n\n",
         "link": "က-၂-.pdf"
+    },
+    {
+        "date_and_time": "2023-12-04 20:35:53",
+        "book_id": "က-၃",
+        "title": "Bootstrap - လို - တို - ရှင်း",
+        "cover": "က-၃.webp",
+        "author": "အိမောင်",
+        "category": "ကွန်ပျူတာ",
+        "about": "Bootstrap CSS Framework အကြောင်း\nလိုရင်းတိုရှင်း ဖော်ပြထားသည့်စာအုပ်။\nကွန်ပျူတာအသုံးပြုတတ်သူ မည်သူမဆို\nဖတ်ရှုလေ့လာ၍ အသုံးချနိုင်မည် ဖြစ်ပါသည်။\nHTML/CSS အခြေခံမှ စတင်၍ ထည့်သွင်း\nဖော်ပြထားပြီး Web Development ကို\nယခုမှစတင်၍ လေ့လာလိုသူများ ပထမဆုံး\nဖတ်ရှုရမည့်စာအုပ် ဖြစ်ပါသည်။\n\n",
+        "link": "က-၃.pdf"
     }
 ]
