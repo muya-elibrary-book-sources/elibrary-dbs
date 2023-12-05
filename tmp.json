@@ -28,5 +28,15 @@
         "category": "ကွန်ပျူတာ",
         "about": "Bootstrap CSS Framework အကြောင်း\nလိုရင်းတိုရှင်း ဖော်ပြထားသည့်စာအုပ်။\nကွန်ပျူတာအသုံးပြုတတ်သူ မည်သူမဆို\nဖတ်ရှုလေ့လာ၍ အသုံးချနိုင်မည် ဖြစ်ပါသည်။\nHTML/CSS အခြေခံမှ စတင်၍ ထည့်သွင်း\nဖော်ပြထားပြီး Web Development ကို\nယခုမှစတင်၍ လေ့လာလိုသူများ ပထမဆုံး\nဖတ်ရှုရမည့်စာအုပ် ဖြစ်ပါသည်။\n\n",
         "link": "က-၃.pdf"
+    },
+    {
+        "date_and_time": "2023-12-04 20:39:23",
+        "book_id": "က-၄",
+        "title": "JavaScript လို - တို - ရှင်း",
+        "cover": "က-၄.webp",
+        "author": "အိမောင်",
+        "category": "ကွန်ပျူတာ",
+        "about": "JavaSript အကြောင်း လိုရင်းတိုရှင်း\nဖော်ပြထားသည့်စာအုပ် ဖြစ်ပါသည်။\nပရိုဂရမ်းမင်းကို ယခုမှ စတင်လေ့လာမည့်သူများ\nဖတ်ရှုသင့်သကဲ့သို့ JavaScript အကြောင်းကို\nအခြေခံကျကျ ပိုမိုသိရှိ နားလည်လိုသူများ\nဖတ်ရှုသင့်ပါသည်။\nပါဝင်သည့်အကြောင်းအရာများ\nအခန်း (၁) – Variables\nအခန်း (၂) – Data Types\nအခန်း (၃) – Expressions, Statements & Operators\nအခန်း (၄) – Procedures & Functions\nအခန်း (၅) – Arrays & Objects\nအခန်း (၆) – Control Flows & Loops\nအခန်း (၇) – Object-Oriented Programming – OOP\nအခန်း (၈) – Promises & async, await\nအခန်း (၉) – Code Style Guide\nအခန်း (၁၀) – Modules\nအခန်း (၁၁) – Document Object Model – DOM\nအခန်း (၁၂) – Debugging\n\nအိမောင် (Fairway)\neimg@fairwayweb.com\n(09) 252 426 388\n",
+        "link": "က-၄.pdf"
     }
 ]
